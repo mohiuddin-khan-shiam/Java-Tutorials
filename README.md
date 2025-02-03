@@ -6,11 +6,11 @@ Welcome to **Learn Java**, a beginner-friendly repository designed to help you m
 
 ## 📅 Table of Contents
 
-1. [Getting Started](#getting-started)
-2. [Topics Covered](#topics-covered)
-3. [How to Run the Code](#how-to-run-the-code)
-4. [Contributing](#contributing)
-5. [License](#license)
+1. [Getting Started](#🔄-getting-started)
+2. [Topics Covered](#🎓-topics-covered)
+3. [How to Run the Code](#🚀-how-to-run-the-code)
+4. [Contributing](#🙋‍♂️-contributing)
+5. [License](#📍-license)
 
 ---
 
@@ -28,12 +28,12 @@ Ensure you have **Java Development Kit (JDK)** installed. You can download it fr
 
 3. **Run Your First Java Program:**
 
-Navigate to the `Basics` folder and run the `HelloWorld.java` file:
+Navigate to the `Basics` folder and run the `Introduction.java` file:
 
 ```bash
 cd Basics
-javac HelloWorld.java
-java HelloWorld
+javac Introduction.java
+java Introduction
 ```
 
 ---
@@ -43,29 +43,30 @@ java HelloWorld
 This repository is structured to take you from basic to advanced Java concepts:
 
 ### **1. Basics**
-- [HelloWorld.java](./Basics/HelloWorld.java)
-- Variables and Data Types
-- Operators and Comments
+- [Introduction to Java](./Basics/Introduction.java)
+- [Working with Variables](./Basics/Variables.java)
+- [Understanding Data Types](./Basics/DataTypes.java)
+- [Using Comments Effectively](./Basics/Comments.java)
 
 ### **2. Control Flow**
-- If-Else Statements
-- Switch Case
-- Loops (For, While, Do-While)
+- [If-Else Statements](./ControlFlow/IfElse.java)
+- [Switch Case](./ControlFlow/SwitchCase.java)
+- [Loops (For, While, Do-While)](./ControlFlow/Loops.java)
 
 ### **3. Object-Oriented Programming (OOP)**
-- Classes and Objects
-- Inheritance
-- Polymorphism
-- Encapsulation & Abstraction
+- [Classes and Objects](./OOP/ClassesAndObjects.java)
+- [Inheritance in Java](./OOP/Inheritance.java)
+- [Polymorphism Explained](./OOP/Polymorphism.java)
+- [Encapsulation & Abstraction](./OOP/Encapsulation.java)
 
 ### **4. Advanced Concepts**
-- Collections Framework
-- Multithreading
-- Streams and Lambdas
+- [Collections Framework](./Advanced/Collections.java)
+- [Multithreading Basics](./Advanced/Multithreading.java)
+- [Streams and Lambdas](./Advanced/Streams.java)
 
 ### **5. Mini Projects**
-- Simple Calculator
-- To-Do List App
+- [Simple Calculator](./Projects/SimpleCalculator/Calculator.java)
+- [To-Do List Application](./Projects/ToDoListApp/ToDoList.java)
 
 ---
 
