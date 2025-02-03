@@ -6,15 +6,15 @@ Welcome to **Learn Java**, a beginner-friendly repository designed to help you m
 
 ## 📅 Table of Contents
 
-1. [Getting Started](#🔄-getting-started)
-2. [Topics Covered](#🎓-topics-covered)
-3. [How to Run the Code](#🚀-how-to-run-the-code)
-4. [Contributing](#🙋‍♂️-contributing)
-5. [License](#📍-license)
+1. [Getting Started](#getting-started)
+2. [Topics Covered](#topics-covered)
+3. [How to Run the Code](#how-to-run-the-code)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ---
 
-## 🔄 Getting Started
+## Getting Started
 
 1. **Clone the Repository:**
 
@@ -28,49 +28,49 @@ Ensure you have **Java Development Kit (JDK)** installed. You can download it fr
 
 3. **Run Your First Java Program:**
 
-Navigate to the `Basics` folder and run the `Introduction.java` file:
+Navigate to the `Basics` folder and run the `HelloWorld.java` file:
 
 ```bash
 cd Basics
-javac Introduction.java
-java Introduction
+javac HelloWorld.java
+java HelloWorld
 ```
 
 ---
 
-## 🎓 Topics Covered
+## Topics Covered
 
 This repository is structured to take you from basic to advanced Java concepts:
 
 ### **1. Basics**
-- [Introduction to Java](./Basics/Introduction.java)
-- [Working with Variables](./Basics/Variables.java)
-- [Understanding Data Types](./Basics/DataTypes.java)
-- [Using Comments Effectively](./Basics/Comments.java)
+- [HelloWorld.java](./Basics/HelloWorld.java)
+- [Variables.java](./Basics/Variables.java)
+- [DataTypes.java](./Basics/DataTypes.java)
+- [Comments.java](./Basics/Comments.java)
 
 ### **2. Control Flow**
-- [If-Else Statements](./ControlFlow/IfElse.java)
-- [Switch Case](./ControlFlow/SwitchCase.java)
-- [Loops (For, While, Do-While)](./ControlFlow/Loops.java)
+- [IfElse.java](./ControlFlow/IfElse.java)
+- [SwitchCase.java](./ControlFlow/SwitchCase.java)
+- [Loops.java](./ControlFlow/Loops.java)
 
 ### **3. Object-Oriented Programming (OOP)**
-- [Classes and Objects](./OOP/ClassesAndObjects.java)
-- [Inheritance in Java](./OOP/Inheritance.java)
-- [Polymorphism Explained](./OOP/Polymorphism.java)
-- [Encapsulation & Abstraction](./OOP/Encapsulation.java)
+- [ClassesAndObjects.java](./OOP/ClassesAndObjects.java)
+- [Inheritance.java](./OOP/Inheritance.java)
+- [Polymorphism.java](./OOP/Polymorphism.java)
+- [Encapsulation.java](./OOP/Encapsulation.java)
 
 ### **4. Advanced Concepts**
-- [Collections Framework](./Advanced/Collections.java)
-- [Multithreading Basics](./Advanced/Multithreading.java)
-- [Streams and Lambdas](./Advanced/Streams.java)
+- [Collections.java](./Advanced/Collections.java)
+- [Multithreading.java](./Advanced/Multithreading.java)
+- [Streams.java](./Advanced/Streams.java)
 
 ### **5. Mini Projects**
-- [Simple Calculator](./Projects/SimpleCalculator/Calculator.java)
-- [To-Do List Application](./Projects/ToDoListApp/ToDoList.java)
+- [SimpleCalculator.java](./Projects/SimpleCalculator/Calculator.java)
+- [ToDoList.java](./Projects/ToDoListApp/ToDoList.java)
 
 ---
 
-## 🚀 How to Run the Code
+## How to Run the Code
 
 1. Navigate to the folder of the topic you're learning:
 
@@ -90,7 +90,7 @@ java Calculator
 
 ---
 
-## 🙋‍♂️ Contributing
+## Contributing
 
 We welcome contributions to make this repository even better!
 
@@ -115,7 +115,7 @@ We welcome contributions to make this repository even better!
 
 ---
 
-## 📍 License
+## License
 
 This project is licensed under the [MIT License](./LICENSE). Feel free to use, modify, and distribute it as you wish.
 
