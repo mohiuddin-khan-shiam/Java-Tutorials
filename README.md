@@ -19,8 +19,8 @@ Welcome to **Learn Java**, a beginner-friendly repository designed to help you m
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/yourusername/Learn-Java.git
-cd Learn-Java
+git clone https://github.com/mohiuddin-khan-shiam/Java-Tutorials.git
+cd Java-Tutorials
 ```
 
 2. **Set Up Java:**  
@@ -96,7 +96,7 @@ We welcome contributions to make this repository even better!
 1. **Fork** the repo.
 2. **Clone** your forked version:
    ```bash
-   git clone https://github.com/yourusername/Learn-Java.git
+   git clone https://github.com/mohiuddin-khan-shiam/Java-Tutorials.git
    ```
 3. **Create a new branch**:
    ```bash
